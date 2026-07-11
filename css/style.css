@@ -2367,7 +2367,7 @@ html {
 /* ------------------------------------------------ */
 
 
-@media (max-width: 350px) {
+@media (max-width: 390px) {
 
   .about__btn-box {
     flex-direction: column;
